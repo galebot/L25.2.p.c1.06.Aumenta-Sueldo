@@ -1,3 +1,12 @@
+/**
+2. AUMENTA SUELDO  
+En una empresa se asignará un aumento del 20% a todo el personal obrero y un 10% al  
+personal administrativo. Se conoce de cada empleado su cédula, sueldo actual y el tipo de  
+empleado (1-Obrero, 2-Administrativo). Al procesar todos los empleados, la empresa desea  
+saber: a) el nuevo sueldo de cada empleado, por la empresa: b) el monto total que deberá  
+pagar sólo por concepto de incremento de sueldo a todo el personal y c) el porcentaje de  
+personal obrero 
+*/
 import Cl_personal from "./Cl_personal.js";
 import Cl_empresa from "./Cl_empresa.js";
 const trabajador1 = new Cl_personal("V555", 1, 50);
